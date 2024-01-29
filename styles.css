@@ -1,0 +1,39 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .accordion {
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .accordion-header {
+    padding: 10px;
+    background-color: #f1f1f1;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .accordion-content {
+    padding: 10px;
+  }
+  
+  .accordion-content ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .accordion-content li {
+    margin-bottom: 8px;
+  }
+  
+  .accordion-header:hover {
+    background-color: #ddd;
+  }
+  
