@@ -7,6 +7,10 @@ body {
   h1 {
     text-align: center;
   }
+
+  h3 {
+    text-align: center;
+  }
   
   .accordion {
     border: 1px solid #ddd;
